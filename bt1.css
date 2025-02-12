@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.title{
+    text-align: center;
+    background-color: rgb(27, 123, 206);
+    color: white;
+    height:80px;
+    line-height: 35px;
+    letter-spacing: 2px;
+
+}
+.body{
+    text-align: left;
+    padding: 50px;
+    padding-left: 500px;
+    background-color: aliceblue;
+}
+.minh{
+     text-align: center;
+     background-color: rgb(182, 187, 192);
+     height: 50px; /*can giua theo height*/
+     line-height: 50px; /*can giua theo height*/
+
+}
+img{
+    border-radius: 50px;
+}
+span{
+    word-spacing: 10px;
+}
