@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    padding-bottom: 30px;
+}
+.header h1{
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+.header a{
+    height: 50px;
+    line-height: 50%;
+    padding-right: 40px;
+}
+.table{
+    width: 100%;
+}
+h2{
+    padding-left: 20px;
+}
+a{
+    padding-left: 30px;
+}
+.header{
+    text-align: center;
+    background-color: forestgreen;
+    background-color: forestgreen;
+    
+}
+.top{
+    vertical-align: top;
+}
+.footer{
+    background-color: slategray;
+    color: white;
+    text-align: center;
+}
+.footer p{
+    height: 50px;
+    line-height: 50px;
+}
